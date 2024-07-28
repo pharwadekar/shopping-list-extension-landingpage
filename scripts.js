@@ -4,7 +4,7 @@ document.querySelector('button').addEventListener('click', () => {
     
     // Redirect after a delay
     setTimeout(() => {
-        window.location.href = 'https://chrome.google.com/webstore/detail/stillneedtoaddthis';
+        window.location.href = 'https://github.com/SowmyaKoneti/shoppingListExtension';
     }, 3000);
 });
 
